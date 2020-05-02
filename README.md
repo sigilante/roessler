@@ -20,7 +20,7 @@ These programs are available for use on Urbit under the MIT License.
     
     Example Output (100,000 points rendered with Python):
     
-    ![](./images/rossler-100K.png)
+    ![](./rossler-100K.png)
 
 2.  Transcendental Functions Library.  I wrote a series-based mathematical functions library to support `proj-3d`.  It is unjetted, but supports sine, cosine, tangent, logarithms, arbitrary powers, and exponentiation.
 
@@ -47,4 +47,4 @@ These programs are available for use on Urbit under the MIT License.
     
     Output (PPM file converted to PNG):
     
-    ![](./images/rossler-1K-10K.png)
+    ![](./rossler-1K-10K.png)
