@@ -45,6 +45,12 @@ These programs are available for use on Urbit under the MIT License.
         ::  Render a 1,000×1,000 image of 10,000 Roessler points.
         (gen3d-ppm (ravel-3d-pts (gen-3d-pts 1.000 10.000) 1.000))
     
+    or
+    
+        *%/web/output/txt +proj-3d [1.000 10.000]
+    
+    Then convert the `txt` to `ppm` and clean up Hoon syntax artifacts (like `.0` for `0`).
+    
     Output (PPM file converted to PNG):
     
     ![](./rossler-1K-10K.png)
