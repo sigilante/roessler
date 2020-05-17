@@ -58,5 +58,3 @@ These programs are available for use on Urbit under the MIT License.
 Here's a GIF generated from a few camera views about the origin.
 
 ![](./rossler-out.gif)
-
-All code is available under the MIT License.
