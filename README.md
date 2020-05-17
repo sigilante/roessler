@@ -54,3 +54,7 @@ These programs are available for use on Urbit under the MIT License.
     Output (PPM file converted to PNG):
     
     ![](./rossler-1K-10K.png)
+
+Here's a GIF generated from a few camera views about the origin.
+
+![](./rossler-out.gif)
